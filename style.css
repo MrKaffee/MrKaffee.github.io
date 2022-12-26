@@ -1,0 +1,26 @@
+bg-img1{
+    background-color: #000;
+    background-size: cover;
+}
+bg-img2{
+    background-color: #000;
+    background-size: cover;
+    
+}
+bg-img3{
+    background-color: #000;
+    background-size: cover;
+}
+/*footer{
+    display: flex;
+    margin: 5px;
+    justify-content: space-between;
+    
+}
+*/
+footer > div >a:hover{
+    color:rgba(217, 15, 224, 0.88) ;
+}
+footer > div > a:active{
+    color:rgba(99, 4, 4, 0.927)
+}
